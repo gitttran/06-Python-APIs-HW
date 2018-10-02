@@ -1,0 +1,4 @@
+Observations from the graphs created in WeatherPy Hw assignment.
+  1. Temperatures are highest near the equator
+  2. Humidity seems to be random with a larger cluster of cities in the higher humidity percentages, but there doesnt seem to be any cities near the equator with lower humidty percentages.
+  3. Wind speed and cloudiness does not seem to coorilate with latitude.
